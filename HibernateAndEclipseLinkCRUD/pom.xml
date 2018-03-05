@@ -8,7 +8,7 @@
 	<name>SpringMVCHibernateCRUD Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
-	<!-- Specifying the Versions of Spring, Hiberante, MySQL etc new-->
+	<!-- Specifying the Versions of Spring, Hiberante, MySQL etc new1-->
 
 
 	<properties>
